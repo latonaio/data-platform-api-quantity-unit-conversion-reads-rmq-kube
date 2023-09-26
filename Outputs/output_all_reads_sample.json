@@ -1,0 +1,1063 @@
+{
+    "connection_key": "request",
+    "result": true,
+    "redis_key": "abcdefg",
+    "filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+    "api_status_code": 200,
+    "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+    "business_partner": 101,
+    "service_label": "QUANTITY_UNIT",
+    "api_type": "reads",
+    "message": {
+        "QuantityUnit": [
+            {
+                "QuantityUnit": "G"
+            }
+        ],
+        "QuantityUnitText": [
+            {
+                "QuantityUnit": "ACR",
+                "Language": "JA",
+                "QuantityUnitName": "エーカー"
+            },
+            {
+                "QuantityUnit": "AU",
+                "Language": "JA",
+                "QuantityUnitName": "活動単位"
+            },
+            {
+                "QuantityUnit": "BAG",
+                "Language": "JA",
+                "QuantityUnitName": "袋"
+            },
+            {
+                "QuantityUnit": "BM2",
+                "Language": "JA",
+                "QuantityUnitName": "ベクレル毎平方メートル"
+            },
+            {
+                "QuantityUnit": "BOE",
+                "Language": "JA",
+                "QuantityUnitName": "石油換算バレル相当数量"
+            },
+            {
+                "QuantityUnit": "BQ2",
+                "Language": "JA",
+                "QuantityUnitName": "ベクレル毎平方センチメートル"
+            },
+            {
+                "QuantityUnit": "BQG",
+                "Language": "JA",
+                "QuantityUnitName": "ベクレル毎グラム"
+            },
+            {
+                "QuantityUnit": "BQM",
+                "Language": "JA",
+                "QuantityUnitName": "ベクレル/立方メートル"
+            },
+            {
+                "QuantityUnit": "BTL",
+                "Language": "JA",
+                "QuantityUnitName": "ボトル"
+            },
+            {
+                "QuantityUnit": "C3S",
+                "Language": "JA",
+                "QuantityUnitName": "立方センチメートル毎秒"
+            },
+            {
+                "QuantityUnit": "CAN",
+                "Language": "JA",
+                "QuantityUnitName": "缶"
+            },
+            {
+                "QuantityUnit": "CCK",
+                "Language": "JA",
+                "QuantityUnitName": "立方センチメートル毎キログラム"
+            },
+            {
+                "QuantityUnit": "CCM",
+                "Language": "JA",
+                "QuantityUnitName": "立方センチメートル"
+            },
+            {
+                "QuantityUnit": "CD3",
+                "Language": "JA",
+                "QuantityUnitName": "立方デシメートル"
+            },
+            {
+                "QuantityUnit": "CL",
+                "Language": "JA",
+                "QuantityUnitName": "センチリットル"
+            },
+            {
+                "QuantityUnit": "CM",
+                "Language": "JA",
+                "QuantityUnitName": "センチメートル"
+            },
+            {
+                "QuantityUnit": "CM2",
+                "Language": "JA",
+                "QuantityUnitName": "平方センチメートル"
+            },
+            {
+                "QuantityUnit": "CMS",
+                "Language": "JA",
+                "QuantityUnitName": "センチメートル毎秒"
+            },
+            {
+                "QuantityUnit": "COP",
+                "Language": "JA",
+                "QuantityUnitName": "コピー"
+            },
+            {
+                "QuantityUnit": "CT",
+                "Language": "JA",
+                "QuantityUnitName": "カートン"
+            },
+            {
+                "QuantityUnit": "CV",
+                "Language": "JA",
+                "QuantityUnitName": "ケース"
+            },
+            {
+                "QuantityUnit": "D",
+                "Language": "JA",
+                "QuantityUnitName": "日数"
+            },
+            {
+                "QuantityUnit": "DAY",
+                "Language": "JA",
+                "QuantityUnitName": "日数"
+            },
+            {
+                "QuantityUnit": "DBA",
+                "Language": "JA",
+                "QuantityUnitName": "デシベル (A 加重)"
+            },
+            {
+                "QuantityUnit": "DBC",
+                "Language": "JA",
+                "QuantityUnitName": "デシベル (C 加重)"
+            },
+            {
+                "QuantityUnit": "DEG",
+                "Language": "JA",
+                "QuantityUnitName": "度"
+            },
+            {
+                "QuantityUnit": "DGP",
+                "Language": "JA",
+                "QuantityUnitName": "ADR DG 除外ポイント"
+            },
+            {
+                "QuantityUnit": "DM",
+                "Language": "JA",
+                "QuantityUnitName": "デシメートル"
+            },
+            {
+                "QuantityUnit": "DR",
+                "Language": "JA",
+                "QuantityUnitName": "ドラム"
+            },
+            {
+                "QuantityUnit": "DZ",
+                "Language": "JA",
+                "QuantityUnitName": "ダース"
+            },
+            {
+                "QuantityUnit": "EA",
+                "Language": "JA",
+                "QuantityUnitName": "各"
+            },
+            {
+                "QuantityUnit": "EML",
+                "Language": "JA",
+                "QuantityUnitName": "酵素単位/ミリリットル"
+            },
+            {
+                "QuantityUnit": "EU",
+                "Language": "JA",
+                "QuantityUnitName": "酵素単位"
+            },
+            {
+                "QuantityUnit": "FOZ",
+                "Language": "JA",
+                "QuantityUnitName": "液量オンス (US)"
+            },
+            {
+                "QuantityUnit": "FT",
+                "Language": "JA",
+                "QuantityUnitName": "フィート"
+            },
+            {
+                "QuantityUnit": "FT2",
+                "Language": "JA",
+                "QuantityUnitName": "平方フィート"
+            },
+            {
+                "QuantityUnit": "FT3",
+                "Language": "JA",
+                "QuantityUnitName": "立方フィート"
+            },
+            {
+                "QuantityUnit": "G",
+                "Language": "JA",
+                "QuantityUnitName": "グラム"
+            },
+            {
+                "QuantityUnit": "GAI",
+                "Language": "JA",
+                "QuantityUnitName": "グラム有効成分"
+            },
+            {
+                "QuantityUnit": "GAU",
+                "Language": "JA",
+                "QuantityUnitName": "グラム金"
+            },
+            {
+                "QuantityUnit": "GBQ",
+                "Language": "JA",
+                "QuantityUnitName": "ギガベクレル"
+            },
+            {
+                "QuantityUnit": "GIL",
+                "Language": "JA",
+                "QuantityUnitName": "グラム有効成分/リットル"
+            },
+            {
+                "QuantityUnit": "GJ",
+                "Language": "JA",
+                "QuantityUnitName": "ギガジュール"
+            },
+            {
+                "QuantityUnit": "GJC",
+                "Language": "JA",
+                "QuantityUnitName": "ギガジュール/キロリットル"
+            },
+            {
+                "QuantityUnit": "GLI",
+                "Language": "JA",
+                "QuantityUnitName": "グラム毎リットル"
+            },
+            {
+                "QuantityUnit": "GM",
+                "Language": "JA",
+                "QuantityUnitName": "グラム/モル"
+            },
+            {
+                "QuantityUnit": "GM2",
+                "Language": "JA",
+                "QuantityUnitName": "グラム毎平方メートル"
+            },
+            {
+                "QuantityUnit": "GM3",
+                "Language": "JA",
+                "QuantityUnitName": "グラム毎立方メートル"
+            },
+            {
+                "QuantityUnit": "GOH",
+                "Language": "JA",
+                "QuantityUnitName": "ギガオーム"
+            },
+            {
+                "QuantityUnit": "GPH",
+                "Language": "JA",
+                "QuantityUnitName": "ガロン毎時 (US)"
+            },
+            {
+                "QuantityUnit": "GPM",
+                "Language": "JA",
+                "QuantityUnitName": "ガロン毎マイル (US)"
+            },
+            {
+                "QuantityUnit": "GRO",
+                "Language": "JA",
+                "QuantityUnitName": "グロス"
+            },
+            {
+                "QuantityUnit": "H",
+                "Language": "JA",
+                "QuantityUnitName": "時"
+            },
+            {
+                "QuantityUnit": "H%H",
+                "Language": "JA",
+                "QuantityUnitName": "百分率"
+            },
+            {
+                "QuantityUnit": "HA",
+                "Language": "JA",
+                "QuantityUnitName": "ヘクタール"
+            },
+            {
+                "QuantityUnit": "HL",
+                "Language": "JA",
+                "QuantityUnitName": "ヘクトリットル"
+            },
+            {
+                "QuantityUnit": "IHH",
+                "Language": "JA",
+                "QuantityUnitName": "US ポンド/馬力時"
+            },
+            {
+                "QuantityUnit": "IHT",
+                "Language": "JA",
+                "QuantityUnitName": "US ポンド/100,000 馬力時"
+            },
+            {
+                "QuantityUnit": "IN2",
+                "Language": "JA",
+                "QuantityUnitName": "平方インチ"
+            },
+            {
+                "QuantityUnit": "IN3",
+                "Language": "JA",
+                "QuantityUnitName": "立方インチ"
+            },
+            {
+                "QuantityUnit": "INC",
+                "Language": "JA",
+                "QuantityUnitName": "インチ"
+            },
+            {
+                "QuantityUnit": "ITH",
+                "Language": "JA",
+                "QuantityUnitName": "US ポンド/1000 馬力時"
+            },
+            {
+                "QuantityUnit": "JKG",
+                "Language": "JA",
+                "QuantityUnitName": "ジュール毎キログラム"
+            },
+            {
+                "QuantityUnit": "JKK",
+                "Language": "JA",
+                "QuantityUnitName": "比熱容量"
+            },
+            {
+                "QuantityUnit": "JMO",
+                "Language": "JA",
+                "QuantityUnitName": "ジュール毎モル"
+            },
+            {
+                "QuantityUnit": "KAI",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム有効成分"
+            },
+            {
+                "QuantityUnit": "KB2",
+                "Language": "JA",
+                "QuantityUnitName": "キロベクレル毎平方 cm"
+            },
+            {
+                "QuantityUnit": "KBG",
+                "Language": "JA",
+                "QuantityUnitName": "キロベクレル毎グラム"
+            },
+            {
+                "QuantityUnit": "KBQ",
+                "Language": "JA",
+                "QuantityUnitName": "キロベクレル"
+            },
+            {
+                "QuantityUnit": "KD3",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム毎立方デシメートル"
+            },
+            {
+                "QuantityUnit": "KG",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム"
+            },
+            {
+                "QuantityUnit": "KGB",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム/US バレル"
+            },
+            {
+                "QuantityUnit": "KGJ",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム/ギガジュール"
+            },
+            {
+                "QuantityUnit": "KGM",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム/モル"
+            },
+            {
+                "QuantityUnit": "KGS",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム毎秒"
+            },
+            {
+                "QuantityUnit": "KGV",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム毎立方メートル"
+            },
+            {
+                "QuantityUnit": "KIK",
+                "Language": "JA",
+                "QuantityUnitName": "キログラム有効成分/キログラム"
+            },
+            {
+                "QuantityUnit": "KJG",
+                "Language": "JA",
+                "QuantityUnitName": "キロジュール/グラム"
+            },
+            {
+                "QuantityUnit": "KJK",
+                "Language": "JA",
+                "QuantityUnitName": "キロジュール毎キログラム"
+            },
+            {
+                "QuantityUnit": "KJM",
+                "Language": "JA",
+                "QuantityUnitName": "キロジュール毎モル"
+            },
+            {
+                "QuantityUnit": "KM",
+                "Language": "JA",
+                "QuantityUnitName": "キロメートル"
+            },
+            {
+                "QuantityUnit": "KM2",
+                "Language": "JA",
+                "QuantityUnitName": "平方キロメートル"
+            },
+            {
+                "QuantityUnit": "KMH",
+                "Language": "JA",
+                "QuantityUnitName": "キロメートル毎時"
+            },
+            {
+                "QuantityUnit": "KML",
+                "Language": "JA",
+                "QuantityUnitName": "キロモル"
+            },
+            {
+                "QuantityUnit": "KMN",
+                "Language": "JA",
+                "QuantityUnitName": "ケルビン毎分"
+            },
+            {
+                "QuantityUnit": "KMS",
+                "Language": "JA",
+                "QuantityUnitName": "ケルビン毎秒"
+            },
+            {
+                "QuantityUnit": "KPA",
+                "Language": "JA",
+                "QuantityUnitName": "キロパスカル"
+            },
+            {
+                "QuantityUnit": "KT",
+                "Language": "JA",
+                "QuantityUnitName": "キロトン"
+            },
+            {
+                "QuantityUnit": "KVA",
+                "Language": "JA",
+                "QuantityUnitName": "キロボルトアンペア"
+            },
+            {
+                "QuantityUnit": "L",
+                "Language": "JA",
+                "QuantityUnitName": "リットル"
+            },
+            {
+                "QuantityUnit": "LB",
+                "Language": "JA",
+                "QuantityUnitName": "ポンド"
+            },
+            {
+                "QuantityUnit": "LHK",
+                "Language": "JA",
+                "QuantityUnitName": "リットル毎 100 キロメートル"
+            },
+            {
+                "QuantityUnit": "LMI",
+                "Language": "JA",
+                "QuantityUnitName": "リットル毎分"
+            },
+            {
+                "QuantityUnit": "LMS",
+                "Language": "JA",
+                "QuantityUnitName": "リットル/モル秒"
+            },
+            {
+                "QuantityUnit": "LPH",
+                "Language": "JA",
+                "QuantityUnitName": "リットル毎時"
+            },
+            {
+                "QuantityUnit": "M",
+                "Language": "JA",
+                "QuantityUnitName": "メートル"
+            },
+            {
+                "QuantityUnit": "M-2",
+                "Language": "JA",
+                "QuantityUnitName": "1/平方メートル"
+            },
+            {
+                "QuantityUnit": "M/L",
+                "Language": "JA",
+                "QuantityUnitName": "モル毎リットル"
+            },
+            {
+                "QuantityUnit": "M/M",
+                "Language": "JA",
+                "QuantityUnitName": "モル/立方メートル"
+            },
+            {
+                "QuantityUnit": "M/S",
+                "Language": "JA",
+                "QuantityUnitName": "メートル毎秒"
+            },
+            {
+                "QuantityUnit": "M2",
+                "Language": "JA",
+                "QuantityUnitName": "平方メートル"
+            },
+            {
+                "QuantityUnit": "M2C",
+                "Language": "JA",
+                "QuantityUnitName": "平方メートル/立方センチ Meter"
+            },
+            {
+                "QuantityUnit": "M2G",
+                "Language": "JA",
+                "QuantityUnitName": "平方メートル/グラム"
+            },
+            {
+                "QuantityUnit": "M2K",
+                "Language": "JA",
+                "QuantityUnitName": "平方メートル/キログラム"
+            },
+            {
+                "QuantityUnit": "M2M",
+                "Language": "JA",
+                "QuantityUnitName": "平方メートル/立方メートル"
+            },
+            {
+                "QuantityUnit": "M2S",
+                "Language": "JA",
+                "QuantityUnitName": "平方メートル毎秒"
+            },
+            {
+                "QuantityUnit": "M3",
+                "Language": "JA",
+                "QuantityUnitName": "立方メートル"
+            },
+            {
+                "QuantityUnit": "M3D",
+                "Language": "JA",
+                "QuantityUnitName": "立方メートル/日"
+            },
+            {
+                "QuantityUnit": "M3H",
+                "Language": "JA",
+                "QuantityUnitName": "立方メートル/時"
+            },
+            {
+                "QuantityUnit": "M3S",
+                "Language": "JA",
+                "QuantityUnitName": "立方メートル毎秒"
+            },
+            {
+                "QuantityUnit": "MB2",
+                "Language": "JA",
+                "QuantityUnitName": "メガベクレル/平方センチ Meter"
+            },
+            {
+                "QuantityUnit": "MBG",
+                "Language": "JA",
+                "QuantityUnitName": "メガベクレル毎グラム"
+            },
+            {
+                "QuantityUnit": "MBQ",
+                "Language": "JA",
+                "QuantityUnitName": "メガベクレル"
+            },
+            {
+                "QuantityUnit": "MEJ",
+                "Language": "JA",
+                "QuantityUnitName": "メガジュール"
+            },
+            {
+                "QuantityUnit": "MG",
+                "Language": "JA",
+                "QuantityUnitName": "ミリグラム"
+            },
+            {
+                "QuantityUnit": "MGL",
+                "Language": "JA",
+                "QuantityUnitName": "ミリグラム毎リットル"
+            },
+            {
+                "QuantityUnit": "MGO",
+                "Language": "JA",
+                "QuantityUnitName": "メガオーム"
+            },
+            {
+                "QuantityUnit": "MGQ",
+                "Language": "JA",
+                "QuantityUnitName": "ミリグラム毎立方メートル"
+            },
+            {
+                "QuantityUnit": "MHV",
+                "Language": "JA",
+                "QuantityUnitName": "メガボルト"
+            },
+            {
+                "QuantityUnit": "MI",
+                "Language": "JA",
+                "QuantityUnitName": "マイル"
+            },
+            {
+                "QuantityUnit": "MI2",
+                "Language": "JA",
+                "QuantityUnitName": "平方マイル"
+            },
+            {
+                "QuantityUnit": "MIN",
+                "Language": "JA",
+                "QuantityUnitName": "分"
+            },
+            {
+                "QuantityUnit": "MIS",
+                "Language": "JA",
+                "QuantityUnitName": "マイクロセカンド"
+            },
+            {
+                "QuantityUnit": "ML",
+                "Language": "JA",
+                "QuantityUnitName": "ミリリットル"
+            },
+            {
+                "QuantityUnit": "MLI",
+                "Language": "JA",
+                "QuantityUnitName": "ミリリットル有効成分"
+            },
+            {
+                "QuantityUnit": "MM",
+                "Language": "JA",
+                "QuantityUnitName": "ミリメートル"
+            },
+            {
+                "QuantityUnit": "MM2",
+                "Language": "JA",
+                "QuantityUnitName": "平方ミリメートル"
+            },
+            {
+                "QuantityUnit": "MM3",
+                "Language": "JA",
+                "QuantityUnitName": "立方ミリメートル"
+            },
+            {
+                "QuantityUnit": "MMl",
+                "Language": "JA",
+                "QuantityUnitName": "ミリインチ"
+            },
+            {
+                "QuantityUnit": "MN",
+                "Language": "JA",
+                "QuantityUnitName": "メガニュートン"
+            },
+            {
+                "QuantityUnit": "MNM",
+                "Language": "JA",
+                "QuantityUnitName": "ミリニュートン毎メートル"
+            },
+            {
+                "QuantityUnit": "MPG",
+                "Language": "JA",
+                "QuantityUnitName": "マイル毎ガロン (US)"
+            },
+            {
+                "QuantityUnit": "MPH",
+                "Language": "JA",
+                "QuantityUnitName": "メートル毎時"
+            },
+            {
+                "QuantityUnit": "MPL",
+                "Language": "JA",
+                "QuantityUnitName": "ミリモル/リットル"
+            },
+            {
+                "QuantityUnit": "MPM",
+                "Language": "JA",
+                "QuantityUnitName": "メートル毎分"
+            },
+            {
+                "QuantityUnit": "MPS",
+                "Language": "JA",
+                "QuantityUnitName": "ミリパスカル秒"
+            },
+            {
+                "QuantityUnit": "MS2",
+                "Language": "JA",
+                "QuantityUnitName": "メートル毎秒毎秒"
+            },
+            {
+                "QuantityUnit": "MSC",
+                "Language": "JA",
+                "QuantityUnitName": "ミクロジーメンス/cm"
+            },
+            {
+                "QuantityUnit": "MSE",
+                "Language": "JA",
+                "QuantityUnitName": "ミリセカンド"
+            },
+            {
+                "QuantityUnit": "MSH",
+                "Language": "JA",
+                "QuantityUnitName": "ミリシーベルト毎時"
+            },
+            {
+                "QuantityUnit": "MVA",
+                "Language": "JA",
+                "QuantityUnitName": "メガボルトアンペア"
+            },
+            {
+                "QuantityUnit": "MWH",
+                "Language": "JA",
+                "QuantityUnitName": "メガワット時"
+            },
+            {
+                "QuantityUnit": "NA",
+                "Language": "JA",
+                "QuantityUnitName": "ナノアンペア"
+            },
+            {
+                "QuantityUnit": "NAM",
+                "Language": "JA",
+                "QuantityUnitName": "ナノメートル"
+            },
+            {
+                "QuantityUnit": "NI",
+                "Language": "JA",
+                "QuantityUnitName": "キロニュートン"
+            },
+            {
+                "QuantityUnit": "NM",
+                "Language": "JA",
+                "QuantityUnitName": "ニュートン毎メートル"
+            },
+            {
+                "QuantityUnit": "NMM",
+                "Language": "JA",
+                "QuantityUnitName": "ニュートン毎平方ミリメートル"
+            },
+            {
+                "QuantityUnit": "NS",
+                "Language": "JA",
+                "QuantityUnitName": "ナノセカンド"
+            },
+            {
+                "QuantityUnit": "OCM",
+                "Language": "JA",
+                "QuantityUnitName": "比抵抗"
+            },
+            {
+                "QuantityUnit": "OM",
+                "Language": "JA",
+                "QuantityUnitName": "比抵抗"
+            },
+            {
+                "QuantityUnit": "OZ",
+                "Language": "JA",
+                "QuantityUnitName": "オンス"
+            },
+            {
+                "QuantityUnit": "P",
+                "Language": "JA",
+                "QuantityUnitName": "ポイント"
+            },
+            {
+                "QuantityUnit": "PAA",
+                "Language": "JA",
+                "QuantityUnitName": "ペア"
+            },
+            {
+                "QuantityUnit": "PAC",
+                "Language": "JA",
+                "QuantityUnitName": "Pack"
+            },
+            {
+                "QuantityUnit": "PAL",
+                "Language": "JA",
+                "QuantityUnitName": "パレット"
+            },
+            {
+                "QuantityUnit": "PAS",
+                "Language": "JA",
+                "QuantityUnitName": "パスカル秒"
+            },
+            {
+                "QuantityUnit": "PC",
+                "Language": "JA",
+                "QuantityUnitName": "個"
+            },
+            {
+                "QuantityUnit": "PDA",
+                "Language": "JA",
+                "QuantityUnitName": "コンサルタント日数"
+            },
+            {
+                "QuantityUnit": "PF",
+                "Language": "JA",
+                "QuantityUnitName": "ピコファラド"
+            },
+            {
+                "QuantityUnit": "PMI",
+                "Language": "JA",
+                "QuantityUnitName": "毎分"
+            },
+            {
+                "QuantityUnit": "PMR",
+                "Language": "JA",
+                "QuantityUnitName": "浸透率 SI"
+            },
+            {
+                "QuantityUnit": "PPB",
+                "Language": "JA",
+                "QuantityUnitName": "十億分率"
+            },
+            {
+                "QuantityUnit": "PPM",
+                "Language": "JA",
+                "QuantityUnitName": "百万分率"
+            },
+            {
+                "QuantityUnit": "PPT",
+                "Language": "JA",
+                "QuantityUnitName": "一兆分率"
+            },
+            {
+                "QuantityUnit": "PRC",
+                "Language": "JA",
+                "QuantityUnitName": "グループ比率"
+            },
+            {
+                "QuantityUnit": "PRM",
+                "Language": "JA",
+                "QuantityUnitName": "浸透率"
+            },
+            {
+                "QuantityUnit": "PRS",
+                "Language": "JA",
+                "QuantityUnitName": "人"
+            },
+            {
+                "QuantityUnit": "PS",
+                "Language": "JA",
+                "QuantityUnitName": "ピコ秒"
+            },
+            {
+                "QuantityUnit": "PT",
+                "Language": "JA",
+                "QuantityUnitName": "パイント (US)"
+            },
+            {
+                "QuantityUnit": "QT",
+                "Language": "JA",
+                "QuantityUnitName": "クォート (US)"
+            },
+            {
+                "QuantityUnit": "R-U",
+                "Language": "JA",
+                "QuantityUnitName": "ナノファラド"
+            },
+            {
+                "QuantityUnit": "RF",
+                "Language": "JA",
+                "QuantityUnitName": "ミリファラド"
+            },
+            {
+                "QuantityUnit": "RHO",
+                "Language": "JA",
+                "QuantityUnitName": "グラム/立方センチメートル"
+            },
+            {
+                "QuantityUnit": "ROL",
+                "Language": "JA",
+                "QuantityUnitName": "ロール"
+            },
+            {
+                "QuantityUnit": "S/M",
+                "Language": "JA",
+                "QuantityUnitName": "ジーメンス/メートル"
+            },
+            {
+                "QuantityUnit": "SVH",
+                "Language": "JA",
+                "QuantityUnitName": "シーベルト毎時間"
+            },
+            {
+                "QuantityUnit": "SVS",
+                "Language": "JA",
+                "QuantityUnitName": "シーベルト毎秒"
+            },
+            {
+                "QuantityUnit": "T%T",
+                "Language": "JA",
+                "QuantityUnitName": "千分率"
+            },
+            {
+                "QuantityUnit": "TBQ",
+                "Language": "JA",
+                "QuantityUnitName": "テラベクレル"
+            },
+            {
+                "QuantityUnit": "TEU",
+                "Language": "JA",
+                "QuantityUnitName": "20 フィートコンテナ換算"
+            },
+            {
+                "QuantityUnit": "TKL",
+                "Language": "JA",
+                "QuantityUnitName": "トン/1000 リットル"
+            },
+            {
+                "QuantityUnit": "TO",
+                "Language": "JA",
+                "QuantityUnitName": "トン"
+            },
+            {
+                "QuantityUnit": "TOM",
+                "Language": "JA",
+                "QuantityUnitName": "トン/立方メートル"
+            },
+            {
+                "QuantityUnit": "TON",
+                "Language": "JA",
+                "QuantityUnitName": "US トン"
+            },
+            {
+                "QuantityUnit": "TS",
+                "Language": "JA",
+                "QuantityUnitName": "千"
+            },
+            {
+                "QuantityUnit": "USG",
+                "Language": "JA",
+                "QuantityUnitName": "ガロン (US)"
+            },
+            {
+                "QuantityUnit": "USH",
+                "Language": "JA",
+                "QuantityUnitName": "マイクロシーベルト毎時間"
+            },
+            {
+                "QuantityUnit": "VA",
+                "Language": "JA",
+                "QuantityUnitName": "ボルトアンペア"
+            },
+            {
+                "QuantityUnit": "VAL",
+                "Language": "JA",
+                "QuantityUnitName": "金額管理品目"
+            },
+            {
+                "QuantityUnit": "WKY",
+                "Language": "JA",
+                "QuantityUnitName": "蒸発速度"
+            },
+            {
+                "QuantityUnit": "WMK",
+                "Language": "JA",
+                "QuantityUnitName": "熱伝導率"
+            },
+            {
+                "QuantityUnit": "WMP",
+                "Language": "JA",
+                "QuantityUnitName": "ワット/平方メートル/十億分率"
+            },
+            {
+                "QuantityUnit": "YD",
+                "Language": "JA",
+                "QuantityUnitName": "ヤード"
+            },
+            {
+                "QuantityUnit": "YD2",
+                "Language": "JA",
+                "QuantityUnitName": "平方ヤード"
+            },
+            {
+                "QuantityUnit": "YD3",
+                "Language": "JA",
+                "QuantityUnitName": "立方ヤード"
+            },
+            {
+                "QuantityUnit": "μA",
+                "Language": "JA",
+                "QuantityUnitName": "マイクロアンペア"
+            },
+            {
+                "QuantityUnit": "μF",
+                "Language": "JA",
+                "QuantityUnitName": "マイクロファラド"
+            },
+            {
+                "QuantityUnit": "μGL",
+                "Language": "JA",
+                "QuantityUnitName": "マイクログラム毎リットル"
+            },
+            {
+                "QuantityUnit": "μGQ",
+                "Language": "JA",
+                "QuantityUnitName": "マイクログラム毎立方メートル"
+            },
+            {
+                "QuantityUnit": "μL",
+                "Language": "JA",
+                "QuantityUnitName": "マイクロリットル"
+            },
+            {
+                "QuantityUnit": "μM",
+                "Language": "JA",
+                "QuantityUnitName": "マイクロメートル"
+            },
+            {
+                "QuantityUnit": "年",
+                "Language": "JA",
+                "QuantityUnitName": "年"
+            },
+            {
+                "QuantityUnit": "時",
+                "Language": "JA",
+                "QuantityUnitName": "時間"
+            },
+            {
+                "QuantityUnit": "月",
+                "Language": "JA",
+                "QuantityUnitName": "月"
+            },
+            {
+                "QuantityUnit": "箱",
+                "Language": "JA",
+                "QuantityUnitName": "箱"
+            },
+            {
+                "QuantityUnit": "週",
+                "Language": "JA",
+                "QuantityUnitName": "週"
+            }
+        ]
+    },
+    "api_schema": "DPFMQuantityUnitReads",
+    "accepter": [
+        "All"
+    ],
+    "deleted": false,
+    "sql_update_result": null,
+    "sql_update_error": "",
+    "subfunc_result": null,
+    "subfunc_error": "",
+    "exconf_result": null,
+    "exconf_error": "",
+    "api_processing_result": true,
+    "api_processing_error": ""
+}
